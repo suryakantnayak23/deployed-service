@@ -183,7 +183,7 @@
                                 </div>
                                 <div className="text-center mt-4">
                                     <img src={user} alt="profile" className="rounded-circle" width="64" height="64" />
-                                    <h6 className="mt-3 mb-1">suryakant</h6>
+                                    <h6 className="mt-3 mb-1">soumya</h6>
                                     <p className="text-muted mb-1">Admin</p>
                                     <p className="mb-0">9348326648</p>
                                 </div>
